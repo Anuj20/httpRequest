@@ -1,6 +1,8 @@
 homepage: "https://github.com/Anuj20/httpRequest"
 documentation: "https://github.com/Anuj20/httpRequest/blob/main/README.md"
 versions:
+  - sha: f5b0ca821ec419495c9f53ba4d5f2f601be0ab28
+    changeNotes: Added permission to send data to any HTTPS URL
   - sha: 15f7ebc3bdc99d8d4b8d3b817c4c80626ac5da9b
     changeNotes: Changed the template name and description 
   - sha: b7103fdb2aad56941854fd6b04ed6d286264ac49
