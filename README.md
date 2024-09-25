@@ -49,6 +49,10 @@ Here is an example of how to use the `httpRequest` template:
 
 4. Save and publish the tag.
 
+To create a nested array, use array builder variable: https://tagmanager.google.com/gallery/#/owners/stape-io/templates/array-builder-variable
+
+To create a nested object, use object builder variable: https://tagmanager.google.com/gallery/#/owners/stape-io/templates/object-builder-variable
+
 This will create an HTTP request with the defined headers and body, and the template will compile the necessary code in the backend to send the request.
 
 ## Contributing
